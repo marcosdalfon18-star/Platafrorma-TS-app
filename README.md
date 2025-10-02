@@ -1,0 +1,1 @@
+# Platafrorma-TS-app
